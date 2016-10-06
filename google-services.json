@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "959807233879",
-    "firebase_url": "https://pingamos-a01f9.firebaseio.com",
-    "project_id": "pingamos-a01f9",
-    "storage_bucket": "pingamos-a01f9.appspot.com"
+    "project_number": "549108965525",
+    "firebase_url": "https://hale-trilogy-88101.firebaseio.com",
+    "project_id": "hale-trilogy-88101",
+    "storage_bucket": "hale-trilogy-88101.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:959807233879:android:9c73dd681ef39626",
+        "mobilesdk_app_id": "1:549108965525:android:9c73dd681ef39626",
         "android_client_info": {
           "package_name": "com.outsystemscloud.carlossimoes.pingamos"
         }
       },
       "oauth_client": [
         {
-          "client_id": "959807233879-fma9ldb1q37llohie5vo3kafpiarafrl.apps.googleusercontent.com",
+          "client_id": "549108965525-r17o7ch3eljmoleo23ua2bdt8ql35lcg.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCU63s82BToFI8y7yXdNy3GR6SdFsVtszI"
+          "current_key": "AIzaSyCuINgVuKAlXE-HwqYKNLlvWoK2tqlWYD0"
         }
       ],
       "services": {
