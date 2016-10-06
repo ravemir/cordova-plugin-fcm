@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "959807233879",
+    "firebase_url": "https://pingamos-a01f9.firebaseio.com",
+    "project_id": "pingamos-a01f9",
+    "storage_bucket": "pingamos-a01f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959807233879:android:9c73dd681ef39626",
+        "android_client_info": {
+          "package_name": "com.outsystemscloud.carlossimoes.pingamos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959807233879-fma9ldb1q37llohie5vo3kafpiarafrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU63s82BToFI8y7yXdNy3GR6SdFsVtszI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
